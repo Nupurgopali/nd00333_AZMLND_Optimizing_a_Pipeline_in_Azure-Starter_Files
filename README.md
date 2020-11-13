@@ -44,3 +44,5 @@ In case of hyperdrive config,few changes that can be made :
 Apart from these changes, with more data it will allow the model to get a clearn pattern among the data and hence it will make better ppredictions.
 We can even shift to a neural net and try to get the accuracy to the prediction, it might be better than our exisiting best model i.e. voting ensemble.
 
+## Proof of cluster clean up
+**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.** Included this in udacity-project.ipynb
