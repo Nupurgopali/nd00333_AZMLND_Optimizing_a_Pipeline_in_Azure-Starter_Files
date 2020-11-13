@@ -6,9 +6,9 @@ In this project, we build and optimize an Azure ML pipeline using the Python SDK
 This model is then compared to an Azure AutoML run.
 
 ## Summary
-**In 1-2 sentences, explain the problem statement: e.g "This dataset contains data about... we seek to predict..."**
+**In 1-2 sentences, explain the problem statement: e.g "This dataset contains data about... we seek to predict..."**: The data consists of information about customers of a bank and it contains 40 attributes about them and using these attributes the model had to classify if the customer will make a deposit or not.
 
-**In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**
+**In 1-2 sentences, explain the solution: e.g. "The best performing model was a ..."**: The ID of the best run model was AutoML_df7df6f4-0f65-405f-ac0e-8c435d35c755_48.
 
 ## Scikit-learn Pipeline
 **Explain the pipeline architecture, including data, hyperparameter tuning, and classification algorithm.**
@@ -26,6 +26,3 @@ This model is then compared to an Azure AutoML run.
 ## Future work
 **What are some areas of improvement for future experiments? Why might these improvements help the model?**
 
-## Proof of cluster clean up
-**If you did not delete your compute cluster in the code, please complete this section. Otherwise, delete this section.**
-**Image of cluster marked for deletion**
